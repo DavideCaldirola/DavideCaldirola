@@ -12,8 +12,6 @@
 
 ## Technologies I'm familiar with:
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BBD?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff7139?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-005f87?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -26,16 +24,11 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-1F1F1F?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-007CBA?style=for-the-badge&logo=shield&logoColor=white)
 
+[![](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,git,github,vscode,raspberrypi,ps,pr,ai)](https://skillicons.dev)
+
 ## Languages I'm familiar with:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=css&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+[![](https://skillicons.dev/icons?i=py,cpp,php,html,css,bash,arduino,js,java)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=DavideCaldirola&style=plastic&color=brightgreen)
 
