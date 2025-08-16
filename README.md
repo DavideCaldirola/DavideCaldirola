@@ -3,12 +3,24 @@
 - ⚔️ I'm an Italian **Junior Cybersecurity Specialist**, **SOC Analyst**, **[Hack The Box](https://github.com/hackthebox)** Enthusiast & **CTF Player** for [@Pwnissa](https://github.com/Pwnissa)
 - 🛡️ I'm good at **Web Security**, **Forensics**, **OSINT** & **Misc**
 
+<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DavideCaldirola&theme=dark)
+-->
+
+![](https://github-readme-stats.vercel.app/api?username=DavideCaldirola&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DavideCaldirola&theme=shadow_green&hide_border=true)<br/>
+<!--
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideCaldirola&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
 
 ## Active on:
 
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.com)
 [![CTFtime Badge](https://img.shields.io/badge/CTFtime-red?style=for-the-badge&logo=CTFd&logoColor=white)](https://ctftime.org)
+
+<!--
+[![hackthebox stats](https://www.hackthebox.eu/badge/image/1803159)](https://app.hackthebox.com/profile/1803159)
+-->
 
 ## Technologies I'm familiar with:
 
