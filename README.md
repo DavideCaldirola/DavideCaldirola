@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 - ⚔️ I'm an Italian **Junior Cybersecurity Specialist**, **SOC Analyst**, **[Hack The Box](https://github.com/hackthebox)** Enthusiast & **CTF Player** for [@Pwnissa](https://github.com/Pwnissa)
-- 🛡️ I'm good at **Web Security**, **Forensics**, **OSINT** & **Misc**
+- 🛡️ Doing stuff in **Web Security**, **Forensics**, **OSINT** & **Misc**
 
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DavideCaldirola&theme=dark)
