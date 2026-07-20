@@ -14,6 +14,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideCaldirola&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
 
+<img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/f1e0d571-1ef8-4e62-9bd9-9f9918eedac3" />
+
+**Interactive CLI terminal for browsing my CTFs:** https://davidecaldirola.github.io/CTF-personal-terminal/ctf.html
+
 ## Active on:
 
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.com)
